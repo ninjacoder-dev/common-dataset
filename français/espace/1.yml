@@ -1,0 +1,1815 @@
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Saturne a-t-elle des anneaux ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'origine et la composition des anneaux de Saturne.
+    Structure : Définir la composition (glace/roche) et l'origine (destruction d'un satellite ou débris de formation).
+    </think>
+    <answer>
+    Les anneaux de Saturne sont principalement composés de milliards de morceaux de glace et de poussière rocheuse.
+    - Origine : Les scientifiques pensent qu'ils proviennent de la destruction d'une lune qui s'est trop approchée de la planète, ou de restes de matière ayant échoué à former une lune lors de la naissance du système solaire.
+    - Stabilité : Ces fragments orbitent autour de Saturne, maintenus en place par la gravité de la planète et de ses lunes.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi une "naine blanche" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Décrire la fin de vie des étoiles de masse moyenne.
+    Structure : Processus d'évolution et caractéristiques finales de l'étoile.
+    </think>
+    <answer>
+    Une naine blanche est le cadavre d'une étoile de masse moyenne (comme notre Soleil) après qu'elle a épuisé son combustible nucléaire.
+    - Évolution : L'étoile rejette ses couches externes et il ne reste que le cœur, très dense et chaud.
+    - Taille : Bien qu'elle soit très chaude, elle ne produit plus d'énergie et finira par refroidir pendant des milliards d'années.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que la matière noire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer ce composant mystérieux de l'Univers.
+    Structure : Définition, preuve observationnelle (gravité) et nature inconnue.
+    </think>
+    <answer>
+    La matière noire est une forme de matière invisible qui représente environ 27 % de l'Univers.
+    - Preuve : On ne peut pas la voir (elle n'émet pas de lumière), mais on observe ses effets gravitationnels sur les galaxies : elles tournent beaucoup plus vite qu'elles ne le devraient si elles ne contenaient que la matière visible.
+    - Mystère : Sa nature exacte reste l'un des plus grands défis de la physique moderne.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Le Soleil peut-il exploser ?
+    </user>
+  output: |
+    <think>
+    Analyse : Clarifier le destin du Soleil (naine blanche et non supernova).
+    Structure : Explication de la fin de vie du Soleil sans explosion violente.
+    </think>
+    <answer>
+    Le Soleil n'est pas assez massif pour exploser en supernova.
+    - Processus : Dans environ 5 milliards d'années, il gonflera pour devenir une "géante rouge", absorbant probablement les planètes internes.
+    - Fin : Il expulsera ensuite ses couches externes pour former une nébuleuse planétaire, laissant derrière lui un cœur dense appelé naine blanche.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le ciel est-il noir la nuit ?
+    </user>
+  output: |
+    <think>
+    Analyse : Répondre au paradoxe d'Olbers.
+    Structure : Explication liée à l'expansion de l'Univers et à l'âge fini des étoiles.
+    </think>
+    <answer>
+    Le ciel est noir la nuit pour deux raisons principales :
+    1. L'Univers est en expansion : La lumière des étoiles lointaines est décalée vers le rouge (infrarouge), devenant invisible pour nos yeux.
+    2. Âge fini : L'Univers n'est pas infini en âge, donc la lumière des étoiles les plus éloignées n'a pas encore eu assez de temps pour nous parvenir.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi une comète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la comète comme un corps glacé.
+    Structure : Composition, orbite et formation de la queue.
+    </think>
+    <answer>
+    Une comète est un corps céleste composé de glace, de poussière et de roches, souvent appelé "boule de neige sale".
+    - Comportement : Lorsqu'elle s'approche du Soleil, la chaleur fait fondre la glace, créant une chevelure et une longue queue brillante de gaz et de poussière.
+    - Origine : La plupart proviennent des confins du système solaire (nuage d'Oort ou ceinture de Kuiper).
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la planète la plus chaude du système solaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Vénus (et non Mercure).
+    Structure : Nommer la planète et expliquer le rôle de l'effet de serre.
+    </think>
+    <answer>
+    La planète la plus chaude est Vénus.
+    - Paradoxe : Bien que Mercure soit plus proche du Soleil, Vénus est plus chaude car son atmosphère, très dense et riche en dioxyde de carbone, provoque un effet de serre extrême. La température y dépasse les 460°C en permanence.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que le télescope spatial James Webb ?
+    </user>
+  output: |
+    <think>
+    Analyse : Présenter le JWST.
+    Structure : Fonction principale (infrarouge) et objectifs scientifiques.
+    </think>
+    <answer>
+    Le James Webb (JWST) est le télescope spatial le plus puissant jamais construit.
+    - Particularité : Il observe principalement dans l'infrarouge, ce qui lui permet de voir à travers les nuages de poussière cosmique.
+    - Objectifs : Étudier les premières galaxies formées après le Big Bang et analyser l'atmosphère des exoplanètes à la recherche de signes de vie.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on voir la Grande Muraille de Chine depuis la Lune ?
+    </user>
+  output: |
+    <think>
+    Analyse : Démystifier une légende urbaine courante.
+    Structure : Réponse directe suivie de l'explication optique.
+    </think>
+    <answer>
+    Non, il est impossible de voir la Grande Muraille de Chine à l'œil nu depuis la Lune.
+    - Raison : La Muraille est trop étroite par rapport à la distance Terre-Lune. Même depuis l'orbite basse (ISS), il est extrêmement difficile de la distinguer sans aide optique ou conditions météorologiques parfaites.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un pulsar ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir le pulsar comme une étoile à neutrons tournante.
+    Structure : Nature physique et signal périodique.
+    </think>
+    <answer>
+    Un pulsar est une étoile à neutrons en rotation très rapide.
+    - Caractéristique : Ces objets sont extrêmement denses et émettent des faisceaux de rayonnement depuis leurs pôles magnétiques.
+    - Signal : Comme ils tournent sur eux-mêmes, ces faisceaux balayent l'espace comme le faisceau d'un phare, ce qui nous donne l'impression d'observer des pulsations régulières à chaque tour.
+    </answer>
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil brille-t-il autant ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la fusion nucléaire dans le cœur du Soleil.
+    Structure : Définition du processus, transformation de la matière en énergie (E=mc²).
+    </think>
+    <answer>
+    Le Soleil brille grâce à la fusion nucléaire.
+    - Processus : Au cœur du Soleil, la pression et la chaleur transforment des atomes d'hydrogène en hélium.
+    - Énergie : Cette fusion libère une quantité phénoménale d'énergie sous forme de lumière et de chaleur, qui rayonne ensuite dans tout le système solaire.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi l'ISS ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la Station Spatiale Internationale.
+    Structure : Fonction, coopération internationale et usage scientifique.
+    </think>
+    <answer>
+    L'ISS est la Station Spatiale Internationale.
+    - Rôle : C'est un laboratoire scientifique en orbite autour de la Terre.
+    - Coopération : Elle est gérée par plusieurs agences spatiales mondiales (NASA, ESA, Roscosmos, etc.).
+    - Vie : Elle permet aux astronautes de vivre en apesanteur pour mener des recherches impossibles sur Terre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la planète la plus proche du Soleil ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Mercure.
+    Structure : Nommer la planète et décrire ses conditions extrêmes.
+    </think>
+    <answer>
+    La planète la plus proche du Soleil est Mercure.
+    - Conditions : Elle est très petite et possède une atmosphère extrêmement fine.
+    - Température : En raison de sa proximité avec le Soleil, elle subit des variations de température extrêmes, passant d'un froid glacial à une chaleur intense selon qu'elle est exposée ou non au rayonnement solaire.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une nébuleuse ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir les nuages de gaz et poussières interstellaires.
+    Structure : Définition, rôle dans la naissance des étoiles.
+    </think>
+    <answer>
+    Une nébuleuse est un immense nuage de gaz (principalement hydrogène) et de poussières situé dans l'espace.
+    - Rôle : Ce sont de véritables "pépinières d'étoiles". Sous l'effet de la gravité, les gaz se regroupent pour former de nouvelles étoiles et des systèmes planétaires.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Le vide de l'espace est-il réellement vide ?
+    </user>
+  output: |
+    <think>
+    Analyse : Nuancer la notion de vide spatial.
+    Structure : Mentionner les particules, les gaz et le rayonnement.
+    </think>
+    <answer>
+    Le vide de l'espace n'est pas un néant absolu.
+    - Matière : Il contient des atomes d'hydrogène, de la poussière cosmique et des rayonnements électromagnétiques.
+    - Énergie : Il est également parcouru par des champs magnétiques, des neutrinos et des photons venant de toutes les étoiles de l'Univers.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une supernovæ ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la mort explosive d'une étoile massive.
+    Structure : Causes, conséquences et importance pour la chimie de l'univers.
+    </think>
+    <answer>
+    Une supernovæ est l'explosion cataclysmique d'une étoile massive en fin de vie.
+    - Processus : L'étoile s'effondre sur elle-même puis expulse violemment ses couches externes.
+    - Impact : Cette explosion crée des éléments chimiques lourds (comme l'or ou le fer) qui sont ensuite dispersés dans l'espace, servant de briques pour la formation de nouvelles planètes.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi la Lune a-t-elle des cratères ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'histoire des impacts lunaires.
+    Structure : Rôle des météorites, absence d'atmosphère, âge géologique.
+    </think>
+    <answer>
+    La Lune est couverte de cratères à cause de milliards d'années d'impacts de météorites.
+    - Absence d'atmosphère : Contrairement à la Terre, la Lune n'a pas d'atmosphère pour brûler les roches spatiales avant l'impact.
+    - Conservation : Sans activité volcanique importante ni érosion (vent, eau) pour effacer les traces, les cratères restent visibles pendant des milliards d'années.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les étoiles naissent-elles ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'effondrement gravitationnel au sein d'un nuage de gaz.
+    Structure : Compression, chauffage, allumage de la fusion.
+    </think>
+    <answer>
+    Les étoiles naissent au sein de nébuleuses :
+    1. Effondrement : Une région dense d'un nuage de gaz s'effondre sur elle-même sous sa propre gravité.
+    2. Chauffage : La matière se comprime, ce qui augmente la température au centre.
+    3. Fusion : Quand la température atteint plusieurs millions de degrés, la fusion nucléaire démarre : l'étoile est née.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une année-lumière ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir l'année-lumière comme mesure de distance.
+    Structure : Définition, valeur approximative et utilité.
+    </think>
+    <answer>
+    Une année-lumière est la distance parcourue par la lumière dans le vide en une année terrestre.
+    - Distance : Cela représente environ 9 460 milliards de kilomètres.
+    - Utilité : Les distances dans l'Univers sont tellement grandes que les kilomètres deviennent illisibles ; l'année-lumière est donc l'unité de mesure standard pour l'astronomie.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Y a-t-il de l'eau sur Mars ?
+    </user>
+  output: |
+    <think>
+    Analyse : Confirmer la présence d'eau, principalement sous forme de glace.
+    Structure : État de l'eau (glace), localisation, intérêt scientifique.
+    </think>
+    <answer>
+    Oui, il y a de l'eau sur Mars, mais majoritairement sous forme de glace.
+    - Localisation : Aux pôles de la planète et sous la surface du sol.
+    - Histoire : Les preuves géologiques (traces d'anciennes rivières) montrent que de l'eau liquide a coulé abondamment sur Mars il y a des milliards d'années.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une étoile à neutrons ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir l'étoile à neutrons comme le cœur très dense d'une étoile massive.
+    Structure : Taille, densité, origine.
+    </think>
+    <answer>
+    Une étoile à neutrons est le cœur ultra-dense resté après l'explosion d'une étoile massive en supernovæ.
+    - Densité : Elle est si compacte qu'une cuillère à café de sa matière pèserait des milliards de tonnes sur Terre.
+    - Taille : Elle ne mesure qu'environ 20 kilomètres de diamètre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le ciel bleu ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la diffusion de Rayleigh.
+    Structure : Interaction lumière solaire/atmosphère, diffusion des ondes courtes.
+    </think>
+    <answer>
+    Le ciel est bleu à cause de la diffusion de la lumière solaire par l'atmosphère.
+    - Phénomène : Lorsque la lumière blanche du Soleil entre dans l'atmosphère, les molécules d'air diffusent davantage les ondes courtes (bleu) que les ondes longues (rouge).
+    - Résultat : Ce bleu est dispersé dans toutes les directions, ce qui donne au ciel sa couleur caractéristique.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronautes font-ils pour aller aux toilettes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le fonctionnement des toilettes spatiales.
+    Structure : Utilisation du flux d'air (aspiration) et gestion des déchets.
+    </think>
+    <answer>
+    Dans l'espace, il n'y a pas de gravité pour évacuer les déchets naturellement.
+    - Système : Les toilettes utilisent un système d'aspiration par flux d'air pour attirer les excréments et l'urine dans des conteneurs étanches.
+    - Hygiène : Les déchets sont ensuite stockés et vidés régulièrement de la station.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une exoplanète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir une planète hors du système solaire.
+    Structure : Définition, difficulté de détection.
+    </think>
+    <answer>
+    Une exoplanète est une planète située en dehors de notre système solaire, en orbite autour d'une autre étoile.
+    - Observation : Comme elles sont très lointaines et peu lumineuses face à leur étoile, elles sont difficiles à voir directement ; on utilise donc des méthodes indirectes pour les détecter.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Le Soleil peut-il s'éteindre ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le cycle de vie du Soleil.
+    Structure : Épuisement du combustible, durée de vie, transformation.
+    </think>
+    <answer>
+    Le Soleil ne va pas "s'éteindre" brutalement, mais son carburant finira par manquer.
+    - Durée : Le Soleil a encore environ 5 milliards d'années de "carburant" (hydrogène) devant lui.
+    - Transformation : Une fois ce stock épuisé, il changera de forme (géante rouge) puis finira ses jours comme une naine blanche, émettant beaucoup moins de lumière.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que l'aurore boréale ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'interaction vent solaire / champ magnétique terrestre.
+    Structure : Cause physique, rôle du champ magnétique.
+    </think>
+    <answer>
+    Une aurore boréale est un phénomène lumineux se produisant aux pôles.
+    - Mécanisme : Des particules chargées venant du Soleil (vent solaire) frappent les gaz de la haute atmosphère terrestre.
+    - Interaction : Ces collisions excitent les molécules d'oxygène et d'azote, qui libèrent de l'énergie sous forme de lumière colorée.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la plus petite planète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Mercure.
+    Structure : Comparaison avec la Terre.
+    </think>
+    <answer>
+    La plus petite planète de notre système solaire est Mercure.
+    - Comparaison : Elle est seulement un peu plus grande que notre Lune. Depuis le déclassement de Pluton, Mercure occupe officiellement la place de la plus petite planète principale.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les fusées ont-elles plusieurs étages ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le gain de masse et l'efficacité.
+    Structure : Largage des réservoirs vides, gain de vitesse.
+    </think>
+    <answer>
+    Les fusées utilisent plusieurs étages pour gagner en légèreté.
+    - Efficacité : Une fois le carburant d'un étage consommé, le poids du réservoir devient inutile. Larguer cet étage permet à la fusée d'être beaucoup plus légère pour continuer à accélérer avec le reste du carburant.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une galaxie spirale ?
+    </user>
+  output: |
+    <think>
+    Analyse : Décrire la forme de la Voie Lactée et d'autres galaxies.
+    Structure : Bulbe, disque et bras.
+    </think>
+    <answer>
+    Une galaxie spirale est une structure spatiale composée de milliards d'étoiles.
+    - Structure : Elle possède un bulbe central brillant entouré d'un disque plat tournant, avec des "bras" qui s'enroulent vers l'extérieur. La Voie Lactée est l'exemple le plus connu de cette forme.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on utiliser des voiles solaires dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le principe de la pression de radiation.
+    Structure : Fonctionnement de la voile et source de propulsion.
+    </think>
+    <answer>
+    Oui, les voiles solaires sont une technologie réelle de propulsion.
+    - Fonctionnement : Elles utilisent la pression exercée par les photons émis par le Soleil sur une surface très grande et réfléchissante, un peu comme le vent pousse une voile sur un bateau. Cela permet de se déplacer sans carburant chimique.
+    </answer>
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un trou de ver ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le concept théorique de raccourci spatio-temporel.
+    Structure : Définition, fondement théorique (relativité), et statut scientifique.
+    </think>
+    <answer>
+    Un trou de ver est une solution théorique aux équations de la relativité générale d'Einstein.
+    - Concept : Il s'agirait d'un raccourci reliant deux points distants de l'espace-temps.
+    - Statut : Bien que mathématiquement possible, aucune preuve de leur existence n'a été trouvée et leur stabilité nécessiterait de l'énergie négative, ce qui reste purement spéculatif.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la différence entre un télescope réfracteur et un réflecteur ?
+    </user>
+  output: |
+    <think>
+    Analyse : Distinguer les deux systèmes optiques principaux.
+    Structure : Principe de fonctionnement (lentilles vs miroirs).
+    </think>
+    <answer>
+    La différence réside dans la manière dont ils collectent la lumière :
+    - Réfracteur (lunette) : Utilise une lentille pour faire converger la lumière.
+    - Réflecteur (télescope) : Utilise un miroir concave pour concentrer la lumière vers un oculaire. Les plus grands télescopes du monde sont tous des réflecteurs.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Jupiter a-t-elle tant de lunes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la capture gravitationnelle et la formation initiale.
+    Structure : Taille de la planète et mécanisme de capture des astéroïdes.
+    </think>
+    <answer>
+    Jupiter possède des dizaines de lunes principalement à cause de sa masse gigantesque.
+    - Gravité : Sa force gravitationnelle est si intense qu'elle a pu capturer de nombreux astéroïdes passant à proximité au cours de l'histoire du système solaire. 
+    - Formation : Certaines lunes se sont formées en même temps que la planète à partir du disque de gaz initial.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que le Paradoxe de Fermi ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la contradiction entre la probabilité de vie extraterrestre et l'absence de preuves.
+    Structure : Définition, énoncé du paradoxe, pistes de réflexion.
+    </think>
+    <answer>
+    Le paradoxe de Fermi pose une question simple : si l'Univers est vaste et ancien, pourquoi n'avons-nous jamais détecté de signe d'une civilisation extraterrestre ?
+    - Contradiction : La probabilité statistique suggère qu'ils devraient exister, mais l'observation suggère le contraire (le "Grand Silence").
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil est-il plus grand dans le ciel que les autres étoiles ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la différence entre luminosité apparente et distance.
+    Structure : Effet de la distance et taille relative.
+    </think>
+    <answer>
+    Le Soleil nous paraît immense et brillant simplement parce qu'il est notre étoile la plus proche.
+    - Distance : Il se situe à environ 150 millions de kilomètres, tandis que l'étoile la plus proche (Proxima Centauri) est à 40 000 milliards de kilomètres. C'est une question de perspective !
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que la ceinture d'astéroïdes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la zone située entre Mars et Jupiter.
+    Structure : Localisation, composition, origine.
+    </think>
+    <answer>
+    La ceinture d'astéroïdes est une zone située entre les orbites de Mars et de Jupiter.
+    - Origine : Elle contient des millions de fragments rocheux qui sont des résidus de la formation du système solaire, n'ayant jamais pu s'agglomérer en planète à cause de l'influence gravitationnelle de Jupiter.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronomes mesurent-ils la température d'une étoile ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'analyse du spectre lumineux (loi de Wien).
+    Structure : Relation couleur/température.
+    </think>
+    <answer>
+    La température d'une étoile est déterminée par la couleur de sa lumière.
+    - Principe : Les étoiles suivent la loi du corps noir : plus une étoile est chaude, plus sa lumière tire vers le bleu, et plus elle est "froide", plus elle tire vers le rouge. En analysant le spectre de la lumière, on peut déduire sa température précise.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un trou noir supermassif ?
+    </user>
+  output: |
+    <think>
+    Analyse : Différencier les trous noirs stellaires des trous noirs galactiques.
+    Structure : Masse, localisation, rôle dans les galaxies.
+    </think>
+    <answer>
+    Un trou noir supermassif est un trou noir dont la masse représente des millions, voire des milliards de fois celle du Soleil.
+    - Localisation : On en trouve un au centre de la plupart des grandes galaxies, y compris la Voie Lactée, et ils jouent un rôle clé dans la dynamique galactique.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on terraformer Mars ?
+    </user>
+  output: |
+    <think>
+    Analyse : Discuter des défis de la terraformation.
+    Structure : Problématiques (atmosphère, température, champ magnétique) et état actuel.
+    </think>
+    <answer>
+    La terraformation de Mars est un concept hypothétique qui reste très difficile.
+    - Défis : Il faudrait réchauffer la planète, densifier son atmosphère, créer de l'oxygène et protéger la surface contre les radiations solaires. Actuellement, nous ne possédons aucune technologie capable d'une telle transformation.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que l'héliopause ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la limite de l'influence solaire.
+    Structure : Définition, vent solaire vs milieu interstellaire.
+    </think>
+    <answer>
+    L'héliopause est la frontière extrême du système solaire.
+    - Définition : C'est le point où la pression du vent solaire (le flux de particules venant du Soleil) est compensée par la pression du milieu interstellaire. Au-delà, on entre dans l'espace interstellaire proprement dit.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Les planètes peuvent-elles sortir de leur orbite ?
+    </user>
+  output: |
+    <think>
+    Analyse : Aborder la stabilité orbitale et les perturbations gravitationnelles.
+    Structure : Stabilité long terme, interactions planétaires.
+    </think>
+    <answer>
+    En général, les orbites sont stables sur des milliards d'années, mais elles peuvent évoluer.
+    - Perturbations : Les interactions gravitationnelles entre planètes peuvent entraîner de légers changements. Dans des cas extrêmes, une planète peut être éjectée de son système si elle subit une interaction gravitationnelle trop violente avec une géante gazeuse.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment fonctionne un cadran solaire sur une autre planète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Adaptation du concept de mesure du temps.
+    Structure : Dépendance à la rotation et à l'inclinaison de la planète.
+    </think>
+    <answer>
+    Un cadran solaire fonctionnerait partout où il y a une étoile proche, mais il devrait être calibré spécifiquement.
+    - Paramètres : Il dépend de la vitesse de rotation de la planète sur elle-même (la longueur du jour) et de l'inclinaison de son axe par rapport à son étoile. Chaque planète aurait donc un temps solaire unique.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que la poussière d'étoile ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la nucléosynthèse stellaire.
+    Structure : Origine atomique de la matière.
+    </think>
+    <answer>
+    L'expression "nous sommes des poussières d'étoiles" est scientifiquement exacte.
+    - Origine : Presque tous les éléments chimiques de notre corps (carbone, oxygène, fer) ont été synthétisés au cœur d'étoiles massives qui ont explosé en supernovæ, dispersant leur matière dans l'Univers.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Le temps passe-t-il plus vite dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la dilatation temporelle (relativité).
+    Structure : Effet de la vitesse (relativité restreinte) et de la gravité (relativité générale).
+    </think>
+    <answer>
+    Oui, le temps est relatif. C'est la dilatation temporelle.
+    - Vitesse : Plus on se déplace vite, plus le temps ralentit pour l'observateur.
+    - Gravité : Plus on est proche d'un corps massif (comme une planète), plus le temps ralentit. Les astronautes sur l'ISS vieillissent donc extrêmement légèrement moins vite que nous.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le système solaire est-il plat ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la formation via le disque protoplanétaire.
+    Structure : Conservation du moment cinétique.
+    </think>
+    <answer>
+    Le système solaire est plat en raison de sa formation initiale.
+    - Disque : Lors de la naissance du Soleil, la matière tournait en un grand nuage qui s'est aplati en un disque sous l'effet de sa rotation rapide (conservation du moment cinétique). Les planètes se sont formées dans ce disque, d'où leur alignement sur un plan commun.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que la ligne de Kármán ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la frontière conventionnelle entre atmosphère et espace.
+    Structure : Altitude et définition technique.
+    </think>
+    <answer>
+    La ligne de Kármán est la frontière conventionnelle de l'espace.
+    - Altitude : Elle est située à 100 kilomètres au-dessus du niveau de la mer. C'est à partir de cette altitude que l'atmosphère terrestre devient trop ténue pour le vol aéronautique et que la mécanique orbitale prend le dessus.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil nous paraît jaune ?
+    </user>
+  output: |
+    <think>
+    Analyse : Nuancer la couleur réelle du Soleil (blanc) vs perception atmosphérique.
+    Structure : Diffusion de la lumière par l'atmosphère.
+    </think>
+    <answer>
+    En réalité, le Soleil est blanc.
+    - Perception : Il nous apparaît jaune ou orangé à cause de l'atmosphère terrestre. En diffusant les longueurs d'onde bleues, l'atmosphère laisse passer davantage les teintes rouges et jaunes, surtout lorsque le Soleil est proche de l'horizon.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronautes mangent-ils dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la nutrition en microgravité.
+    Structure : Types de nourriture, hydratation, évitement des miettes.
+    </think>
+    <answer>
+    La nourriture dans l'espace doit être adaptée pour éviter les miettes ou les liquides qui flotteraient partout.
+    - Préparation : La plupart des aliments sont déshydratés ou thermoscellés. On ajoute de l'eau chaude via une seringue pour réhydrater. Tout est conçu pour rester collé à la cuillère ou au contenant par tension superficielle.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une lune glacée ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer les lunes composées principalement de glace (ex: Europe, Encelade).
+    Structure : Composition, océans internes, intérêt pour l'exobiologie.
+    </think>
+    <answer>
+    Une lune glacée est une lune composée en grande partie d'eau gelée.
+    - Intérêt : Certaines d'entre elles (comme Europe autour de Jupiter) abritent des océans d'eau liquide sous leur croûte glacée grâce à la chaleur générée par les forces de marée, ce qui en fait des cibles majeures pour la recherche de vie.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi y a-t-il des éclipses ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'alignement Terre-Lune-Soleil.
+    Structure : Mécanique céleste des ombres.
+    </think>
+    <answer>
+    Une éclipse se produit lorsque trois objets célestes s'alignent parfaitement.
+    - Éclipse solaire : La Lune passe entre le Soleil et la Terre, projetant son ombre sur nous.
+    - Éclipse lunaire : La Terre passe entre le Soleil et la Lune, projetant son ombre sur la surface lunaire. C'est une simple question d'alignement géométrique.
+    </answer>
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi la Lune change-t-elle de forme dans le ciel ?
+    </user>
+  output: |
+    <think>
+    Analyse : L'utilisateur s'interroge sur les phases lunaires. Il faut expliquer le cycle de réflexion de la lumière solaire en fonction de la position Terre-Lune-Soleil.
+    Structure : Expliquer brièvement le phénomène, puis détailler les étapes clés.
+    </think>
+    <answer>
+    La Lune ne change pas physiquement de forme, c'est son apparence vue de la Terre qui varie. Voici pourquoi :
+    1. La Lune tourne autour de la Terre.
+    2. Elle ne produit pas sa propre lumière, elle reflète celle du Soleil.
+    3. Selon sa position, nous voyons une portion différente de sa face éclairée. C'est ce qu'on appelle les phases lunaires.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la différence entre une météorite et un astéroïde ?
+    </user>
+  output: |
+    <think>
+    Analyse : Clarifier la distinction terminologique basée sur la localisation de l'objet spatial.
+    Structure : Définir chaque terme, puis expliquer la transition de l'un à l'autre.
+    </think>
+    <answer>
+    La distinction repose principalement sur leur localisation :
+    - Astéroïde : Un corps rocheux orbitant autour du Soleil, principalement situé entre Mars et Jupiter.
+    - Météoroïde : Un petit débris d'astéroïde ou de comète.
+    - Météorite : C'est le fragment qui survit à la traversée de l'atmosphère terrestre et touche le sol.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Est-ce qu'on peut entendre du son dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la physique du son (onde mécanique) et l'absence de milieu de propagation dans le vide spatial.
+    Structure : Réponse directe suivie de l'explication scientifique.
+    </think>
+    <answer>
+    Non, il est impossible d'entendre un son dans l'espace.
+    Raison : Le son est une onde mécanique qui nécessite un support matériel (air, eau, métal) pour se propager. Comme l'espace est un vide quasi parfait, les vibrations sonores ne peuvent pas voyager d'un point à un autre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Pluton n'est-elle plus considérée comme une planète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la décision de l'UAI en 2006.
+    Structure : Lister les 3 critères d'une planète et expliquer pourquoi Pluton échoue au 3ème.
+    </think>
+    <answer>
+    En 2006, l'Union Astronomique Internationale a redéfini une planète. Pluton a été reclassée en "planète naine" car :
+    1. Elle orbite autour du Soleil (Oui).
+    2. Elle a une forme sphérique grâce à sa gravité (Oui).
+    3. Elle n'a pas "nettoyé" son voisinage orbital (Non) : elle partage son orbite avec de nombreux autres objets de la ceinture de Kuiper.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systme>
+    <user>
+    Qu'est-ce que le rayonnement fossile ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir le fond diffus cosmologique.
+    Structure : Définition, origine (Big Bang), observation scientifique.
+    </think>
+    <answer>
+    Le rayonnement fossile est la plus ancienne lumière de l'Univers.
+    - Origine : Il s'agit du rayonnement émis environ 380 000 ans après le Big Bang, lorsque l'Univers est devenu transparent.
+    - Observation : Il nous parvient aujourd'hui sous forme de micro-ondes et constitue la preuve observationnelle la plus solide de l'expansion de l'Univers.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil est-il plus grand en hiver ?
+    </user>
+  output: |
+    <think>
+    Analyse : Démystifier une idée reçue liée aux saisons.
+    Structure : Explication des saisons (inclinaison terrestre) vs distance Terre-Soleil.
+    </think>
+    <answer>
+    En réalité, le Soleil n'est pas plus grand en hiver.
+    - Confusion : La taille apparente du Soleil ne change pas significativement avec les saisons. Ce qui change, c'est l'angle des rayons solaires et la durée de la journée, dûs à l'inclinaison de l'axe de la Terre. Paradoxalement, la Terre est au plus proche du Soleil en janvier (périhélie).
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une géante rouge ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la phase de fin de vie d'une étoile.
+    Structure : Processus de dilatation, température de surface, futur du Soleil.
+    </think>
+    <answer>
+    Une géante rouge est une étoile en fin de vie qui a épuisé son hydrogène central.
+    - Processus : L'étoile commence à fusionner l'hélium, ce qui provoque une dilatation colossale de ses couches externes.
+    - Conséquence : Sa température de surface baisse, lui donnant sa couleur rouge caractéristique. C'est le destin probable du Soleil.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on respirer sur une autre planète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Analyser la composition atmosphérique des planètes du système solaire.
+    Structure : Absence d'oxygène, pression, température.
+    </think>
+    <answer>
+    Aucune autre planète de notre système solaire ne permet de respirer.
+    - Problème : Mars possède une atmosphère trop fine et principalement composée de CO2. Vénus est étouffante et toxique. Les géantes gazeuses sont des sphères d'hydrogène et d'hélium sous pression extrême. Sans combinaison, il est impossible d'y survivre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que le vent solaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir le flux de particules chargées.
+    Structure : Origine, effet sur le système solaire.
+    </think>
+    <answer>
+    Le vent solaire est un flux constant de particules chargées (électrons et protons) éjectées par la haute atmosphère du Soleil.
+    - Effets : Il interagit avec les champs magnétiques des planètes, créant des aurores polaires et pouvant perturber les communications satellites et les réseaux électriques sur Terre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la plus grande lune du système solaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Ganymède (lune de Jupiter).
+    Structure : Nom, comparaison de taille.
+    </think>
+    <answer>
+    La plus grande lune du système solaire est Ganymède, l'un des satellites de Jupiter.
+    - Taille : Elle est plus grande que la planète Mercure elle-même ! Elle possède même son propre champ magnétique.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les comètes ont-elles deux queues ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la physique des queues cométaires.
+    Structure : Queue de poussière vs queue de gaz (ionique).
+    </think>
+    <answer>
+    Les comètes développent souvent deux types de queues distinctes :
+    1. Une queue de poussière : Courbée, composée de débris rocheux qui suivent l'orbite de la comète.
+    2. Une queue ionique (gaz) : Droite, composée de gaz ionisés poussés directement à l'opposé du Soleil par le vent solaire.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'un "point de Lagrange" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer les points d'équilibre gravitationnel.
+    Structure : Définition, utilité pour les télescopes (ex: JWST au point L2).
+    </think>
+    <answer>
+    Un point de Lagrange est une zone dans l'espace où la gravité de deux corps célestes (comme le Soleil et la Terre) se compense exactement.
+    - Utilité : Un objet placé en ces points peut rester "stationnaire" par rapport aux planètes sans consommer beaucoup de carburant. C'est idéal pour positionner des observatoires spatiaux.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment est née la Lune ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la théorie de l'impact géant (Theia).
+    Structure : Collision, formation de débris, accrétion.
+    </think>
+    <answer>
+    La théorie la plus acceptée est celle de l'impact géant :
+    Il y a environ 4,5 milliards d'années, un corps de la taille de Mars (nommé Théia) a percuté la jeune Terre. Les débris éjectés de la collision se sont agglomérés en orbite pour former la Lune.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que l'énergie sombre ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'accélération de l'expansion de l'Univers.
+    Structure : Définition, mystère, différence avec la matière noire.
+    </think>
+    <answer>
+    L'énergie sombre est une force hypothétique et mystérieuse qui compose environ 68 % de l'Univers.
+    - Rôle : Contrairement à la gravité qui attire, l'énergie sombre agit comme une force répulsive qui accélère l'expansion de l'Univers, éloignant les galaxies les unes des autres de plus en plus vite.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les télescopes sont-ils dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'influence néfaste de l'atmosphère terrestre.
+    Structure : Turbulence, absorption lumineuse (infrarouge/UV).
+    </think>
+    <answer>
+    Les télescopes spatiaux évitent deux problèmes majeurs :
+    1. L'atmosphère : Elle provoque des turbulences qui "floutent" les images.
+    2. Absorption : Notre atmosphère absorbe certaines longueurs d'onde (comme les ultraviolets ou certains infrarouges). Envoyer des télescopes dans l'espace permet d'obtenir une netteté et un spectre d'observation parfaits.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une planète naine ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la catégorie de planète naine.
+    Structure : Critères (orbite, sphéricité), exemples (Pluton, Cérès).
+    </think>
+    <answer>
+    Une planète naine est un corps céleste assez massif pour être sphérique, mais qui n'a pas "nettoyé" son voisinage orbital.
+    - Exemples : Pluton, Éris, ou encore Cérès (située dans la ceinture d'astéroïdes). Contrairement aux planètes principales, elles partagent leur orbite avec de nombreux autres débris.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronautes font-ils de l'exercice dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le besoin de lutte contre l'atrophie musculaire.
+    Structure : Équipements spécifiques (tapis roulant, vélo), nécessité de harnais.
+    </think>
+    <answer>
+    Sans gravité, les muscles et les os s'atrophient rapidement. Les astronautes doivent s'exercer environ 2 heures par jour.
+    - Matériel : Ils utilisent des tapis roulants ou des vélos stationnaires. Comme ils flotteraient s'ils couraient normalement, ils sont attachés au matériel par des harnais élastiques qui simulent le poids.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi une éruption solaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer les explosions magnétiques à la surface du Soleil.
+    Structure : Cause, libération d'énergie, impact.
+    </think>
+    <answer>
+    Une éruption solaire est une explosion soudaine et violente à la surface du Soleil.
+    - Cause : Elle est provoquée par une libération brutale d'énergie magnétique.
+    - Impact : Elle projette des radiations intenses dans l'espace. Si elles touchent la Terre, elles peuvent ioniser la haute atmosphère et créer des pannes radio ou des perturbations sur les satellites.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Saturne est-elle si peu dense ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la composition gazeuse de Saturne.
+    Structure : Densité moyenne, comparaison avec l'eau.
+    </think>
+    <answer>
+    Saturne est composée principalement d'hydrogène et d'hélium, des gaz très légers.
+    - Faits : Sa densité moyenne est si faible (0,69 g/cm³) qu'elle est inférieure à celle de l'eau. Si vous aviez une baignoire assez grande pour contenir Saturne, elle flotterait !
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une "naine brune" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Situer l'objet entre planète et étoile.
+    Structure : Masse, échec de la fusion nucléaire.
+    </think>
+    <answer>
+    Une naine brune est un objet intermédiaire.
+    - Masse : Elle est trop massive pour être une planète, mais pas assez pour déclencher une fusion nucléaire durable dans son noyau comme le fait une vraie étoile. On les appelle parfois des "étoiles ratées".
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi la matière baryonique ?
+    </user>
+  output: |
+    <think>
+    Analyse : Distinguer la matière normale de la matière noire.
+    Structure : Définition, composition atomique (protons/neutrons).
+    </think>
+    <answer>
+    La matière baryonique est ce qu'on appelle la "matière normale".
+    - Définition : C'est toute la matière composée de protons et de neutrons (les étoiles, les planètes, nous-mêmes). Elle ne représente qu'environ 5 % de la masse totale de l'Univers, le reste étant composé de matière noire et d'énergie sombre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les planètes tournent-elles toutes dans le même sens ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'héritage du disque protoplanétaire.
+    Structure : Rotation initiale du nuage de gaz.
+    </think>
+    <answer>
+    Lors de la formation du système solaire, le grand nuage de gaz et de poussières tournait déjà sur lui-même.
+    - Héritage : En se contractant pour former le Soleil et les planètes, ce disque a conservé ce mouvement de rotation originel. C'est pourquoi, à quelques exceptions près, presque tout le système solaire tourne dans la même direction.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que l'horizon des événements ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir la limite de non-retour d'un trou noir.
+    Structure : Définition, vitesse de libération.
+    </think>
+    <answer>
+    L'horizon des événements est la frontière théorique entourant un trou noir.
+    - Concept : Une fois qu'un objet (ou de la lumière) traverse cette frontière, la vitesse requise pour en ressortir devrait être supérieure à celle de la lumière. Comme rien ne peut aller plus vite que la lumière, tout ce qui franchit cette limite est perdu à jamais pour l'Univers extérieur.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on utiliser le Soleil comme une loupe ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'effet de lentille gravitationnelle.
+    Structure : Définition, masse courbant la lumière, télescope solaire.
+    </think>
+    <answer>
+    Oui, en théorie ! La masse du Soleil courbe l'espace-temps autour de lui, ce qui dévie la lumière provenant d'objets situés derrière.
+    - Effet : C'est une lentille gravitationnelle. Si nous pouvions positionner un télescope à la bonne distance (plus de 550 unités astronomiques), nous pourrions utiliser le Soleil pour agrandir et observer des détails incroyables d'exoplanètes lointaines.
+    </answer>
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi une onde gravitationnelle ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer les rides dans le tissu de l'espace-temps provoquées par des événements massifs.
+    Structure : Définition, cause (fusion de trous noirs), détection.
+    </think>
+    <answer>
+    Une onde gravitationnelle est une "ride" dans le tissu de l'espace-temps.
+    - Cause : Elle est créée par des événements extrêmement violents, comme la fusion de deux trous noirs.
+    - Détection : Ces ondes voyagent à la vitesse de la lumière et déforment très légèrement la réalité, ce que nous pouvons détecter sur Terre avec des instruments comme LIGO.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les planètes gazeuses sont-elles si éloignées ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la formation du système solaire et la "ligne de glace".
+    Structure : Température du disque protoplanétaire, état de la matière.
+    </think>
+    <answer>
+    C'est une question de température pendant la formation du système solaire.
+    - Ligne de glace : Proche du Soleil, il faisait trop chaud pour que les gaz et l'eau se condensent. Seules les roches et les métaux ont pu former des planètes (Telluriques).
+    - Au-delà : Plus loin, il faisait assez froid pour que les gaz s'agglomèrent en géantes massives.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que l'équinoxe ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'alignement Terre-Soleil.
+    Structure : Définition, égalité jour/nuit.
+    </think>
+    <answer>
+    L'équinoxe est le moment de l'année où le Soleil est exactement au zénith au-dessus de l'équateur terrestre.
+    - Conséquence : À ce moment, la durée du jour et de la nuit est presque égale partout sur Terre. Cela se produit deux fois par an, au printemps et à l'automne.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Pluton a-t-elle été "exclue" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Rappeler la définition de l'UAI.
+    Structure : Les 3 critères de planète, voisinage orbital.
+    </think>
+    <answer>
+    Pluton n'a pas été "exclue", elle a été reclassée. Pour être une planète, il faut :
+    1. Orbiter autour du Soleil.
+    2. Avoir une forme sphérique.
+    3. Avoir "nettoyé" son orbite de tout autre débris.
+    Pluton partage son orbite avec des milliers d'autres objets de la ceinture de Kuiper, d'où son nouveau statut de "planète naine".
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un "transit" planétaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le phénomène d'éclipse partielle par une planète.
+    Structure : Observation, baisse de luminosité, méthode de détection des exoplanètes.
+    </think>
+    <answer>
+    Un transit se produit lorsqu'une planète passe physiquement devant son étoile.
+    - Observation : Pour l'observateur lointain, cela provoque une légère baisse de la luminosité de l'étoile. C'est la méthode la plus efficace utilisée par les télescopes spatiaux pour découvrir des exoplanètes.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on mourir de froid dans l'espace ?
+    </user>
+  output: |
+    <think>
+    Analyse : Clarifier la thermodynamique du vide.
+    Structure : Absence de conduction, perte par rayonnement, durée.
+    </think>
+    <answer>
+    La question est complexe. Dans le vide, il n'y a pas d'air pour voler votre chaleur par conduction.
+    - Réalité : Vous perdriez votre chaleur très lentement, uniquement par rayonnement infrarouge. Cependant, la privation d'oxygène et la décompression tueraient quelqu'un bien avant qu'il ne meure de froid.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que le "Grand Filtre" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Présenter cette hypothèse liée au paradoxe de Fermi.
+    Structure : Définition, probabilité de survie des civilisations, extinction.
+    </think>
+    <answer>
+    Le "Grand Filtre" est une explication possible au fait que nous ne voyons aucun extraterrestre.
+    - Hypothèse : Il existerait un obstacle improbable ou impossible à franchir lors de l'évolution de la vie vers une civilisation technologique avancée (ex: passage à la vie pluricellulaire ou autodestruction nucléaire).
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi la Lune est-elle verrouillée avec la Terre ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la rotation synchrone (effets de marée).
+    Structure : Freinage gravitationnel, résultat visuel.
+    </think>
+    <answer>
+    La Lune est en "rotation synchrone" avec la Terre à cause des forces de marée.
+    - Processus : La gravité terrestre a ralenti la rotation de la Lune au fil des éons jusqu'à ce que son temps de rotation sur elle-même corresponde exactement à son temps de révolution autour de la Terre. C'est pourquoi elle nous montre toujours la même face.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronomes "pèsent" les planètes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la loi de la gravitation universelle de Newton.
+    Structure : Mesure des orbites, calcul de la masse de l'objet central.
+    </think>
+    <answer>
+    Les astronomes ne les posent pas sur une balance, ils utilisent la gravité !
+    - Méthode : En observant comment une planète affecte l'orbite de ses lunes (ou d'autres planètes proches), on peut calculer sa force gravitationnelle, et donc déduire sa masse exacte.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une supernova de type Ia ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer l'explosion d'une naine blanche.
+    Structure : Limite de Chandrasekhar, chandelle standard.
+    </think>
+    <answer>
+    Une supernova de type Ia se produit lorsqu'une naine blanche accumule trop de matière depuis une étoile voisine.
+    - Limite : Une fois qu'elle dépasse une certaine masse critique, elle explose totalement. Comme cela se produit toujours à la même masse, ces supernovæ ont toujours la même luminosité, servant de "règles" pour mesurer les distances dans l'Univers.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil est-il une "naine jaune" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Classer le Soleil selon le diagramme de Hertzsprung-Russell.
+    Structure : Type spectral G, durée de vie, taille.
+    </think>
+    <answer>
+    Le Soleil est classé comme une naine jaune (type spectral G2V).
+    - Signification : "Naine" indique qu'il n'est pas une étoile géante, et "jaune" correspond à sa température de surface (~5 500°C). C'est une étoile de la "séquence principale", ce qui signifie qu'elle est en pleine forme et brûle son hydrogène de façon stable.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Que se passerait-il si le Soleil disparaissait soudainement ?
+    </user>
+  output: |
+    <think>
+    Analyse : Débattre de la disparition soudaine de la masse et de la lumière.
+    Structure : Délai de propagation (vitesse de la lumière), effet gravitationnel immédiat.
+    </think>
+    <answer>
+    Si le Soleil disparaissait, deux choses arriveraient :
+    1. Lumière : Nous continuerions à le voir pendant 8 minutes et 20 secondes (le temps que la lumière nous parvienne).
+    2. Gravité : Instantanément, la Terre ne serait plus retenue et partirait en ligne droite dans l'espace à la vitesse où elle était, libérée de son orbite.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les sondes spatiales se dirigent-elles ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la navigation spatiale (star trackers, propulseurs).
+    Structure : Repères stellaires, moteurs d'attitude, assistance gravitationnelle.
+    </think>
+    <answer>
+    Elles ne suivent pas de routes, mais des trajectoires calculées.
+    - Navigation : Elles utilisent des "star trackers" (capteurs d'étoiles) pour s'orienter précisément, et de petits propulseurs à gaz pour ajuster leur trajectoire. Elles utilisent souvent l'assistance gravitationnelle des planètes pour gagner de la vitesse sans carburant.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce qu'une "super-Terre" ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir cette classe d'exoplanètes.
+    Structure : Masse, taille, absence dans notre système solaire.
+    </think>
+    <answer>
+    Une super-Terre est une exoplanète dont la masse est supérieure à celle de la Terre mais inférieure à celle des géantes gazeuses (comme Neptune).
+    - Particularité : Curieusement, nous n'en avons pas dans notre système solaire, alors qu'elles semblent très communes dans la galaxie.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Peut-on entendre le Soleil ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la différence entre onde sonore et onde de pression plasma.
+    Structure : Propagation, conversion en son audible.
+    </think>
+    <answer>
+    Directement non, car l'espace est vide. Cependant, le Soleil "vibre" constamment à cause de mouvements internes.
+    - Conversion : Les scientifiques peuvent enregistrer ces vibrations (ondes de pression) et les convertir en fréquences audibles pour les humains. Le Soleil sonne alors comme un bourdonnement grave.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est l'étoile la plus proche ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Proxima Centauri.
+    Structure : Système Alpha Centauri, distance, type d'étoile.
+    </think>
+    <answer>
+    L'étoile la plus proche de nous est Proxima Centauri.
+    - Distance : Elle se trouve à environ 4,2 années-lumière. Elle fait partie d'un système triple appelé Alpha Centauri. C'est une naine rouge, beaucoup plus petite et froide que notre Soleil.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un "bolide" spatial ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir le météore brillant.
+    Structure : Taille, friction atmosphérique, magnitude.
+    </think>
+    <answer>
+    Un bolide est un météore extrêmement brillant, souvent plus lumineux que la planète Vénus.
+    - Explication : Il s'agit d'un débris spatial un peu plus gros que la moyenne qui pénètre l'atmosphère à très haute vitesse. Sa désintégration crée une traînée lumineuse spectaculaire, souvent accompagnée d'un bruit de détonation.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Les planètes ont-elles toutes des lunes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Comparer les planètes telluriques et gazeuses.
+    Structure : Cas de Mercure/Vénus, abondance chez les géantes.
+    </think>
+    <answer>
+    Non, toutes n'en ont pas.
+    - Absentes : Mercure et Vénus n'ont aucune lune.
+    - Abondance : Les géantes gazeuses (Jupiter, Saturne) en possèdent des dizaines, car leur champ gravitationnel est immense et leur permet de capturer facilement des objets errants.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que le rayonnement ultraviolet ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir cette partie du spectre électromagnétique.
+    Structure : Source (étoiles), danger pour la peau, filtre atmosphérique.
+    </think>
+    <answer>
+    Le rayonnement ultraviolet (UV) est une onde électromagnétique invisible, émise en grande quantité par les étoiles.
+    - Effets : Il est très énergétique et peut endommager les tissus vivants. Heureusement, la couche d'ozone terrestre en absorbe une grande partie, protégeant ainsi la vie à la surface.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi voit-on parfois des étoiles filantes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le phénomène des essaims météoritiques.
+    Structure : Traînée de débris cométaires, entrée atmosphérique.
+    </think>
+    <answer>
+    Une étoile filante n'est absolument pas une étoile.
+    - Explication : C'est une minuscule poussière, souvent issue d'une comète, qui pénètre dans notre atmosphère à des dizaines de milliers de km/h. La friction avec l'air la chauffe jusqu'à ce qu'elle se vaporise, créant ce bref trait de lumière.
+    </answer>
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi un trou noir exactement ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir le concept de trou noir en vulgarisant la physique gravitationnelle extrême.
+    Structure : Définition courte, mécanisme de formation, et mention de l'horizon des événements.
+    </think>
+    <answer>
+    Un trou noir est un objet céleste dont la densité est si grande que la force de gravité empêche toute matière ou lumière d'en sortir.
+    - Formation : Il naît souvent de l'effondrement gravitationnel d'une étoile massive en fin de vie.
+    - Caractéristique : Il possède une "frontière" invisible appelée horizon des événements ; une fois franchie, rien ne peut revenir en arrière.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Combien de temps faut-il pour aller sur Mars ?
+    </user>
+  output: |
+    <think>
+    Analyse : La durée du voyage dépend de la propulsion et de l'alignement planétaire.
+    Structure : Donner une fourchette de temps réaliste pour les technologies actuelles et expliquer la contrainte de la fenêtre de lancement.
+    </think>
+    <answer>
+    Le voyage vers Mars prend actuellement entre 6 et 9 mois avec les technologies de propulsion chimique actuelles.
+    - Facteur clé : La durée dépend de l'alignement entre la Terre et Mars.
+    - Fenêtre : Les lancements ne sont possibles que tous les 26 mois, lorsque les deux planètes sont au plus proche sur leurs orbites respectives.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi le Soleil est-il une étoile et non une planète ?
+    </user>
+  output: |
+    <think>
+    Analyse : Différencier une étoile (fusion nucléaire) d'une planète (accumulation de matière froide).
+    Structure : Comparaison basée sur la source d'énergie et la masse.
+    </think>
+    <answer>
+    La différence fondamentale est la production d'énergie :
+    - Une étoile comme le Soleil est une boule de gaz géante qui produit sa propre énergie par fusion nucléaire (hydrogène en hélium) dans son noyau.
+    - Une planète n'est pas assez massive pour déclencher cette fusion ; elle réfléchit la lumière de son étoile hôte.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi la différence entre une année-lumière et une unité astronomique ?
+    </user>
+  output: |
+    <think>
+    Analyse : Il s'agit de deux unités de mesure de distance spatiale utilisées à des échelles différentes.
+    Structure : Définir chaque unité et expliquer quand on utilise l'une ou l'autre.
+    </think>
+    <answer>
+    Ce sont deux unités de distance, mais pour des échelles différentes :
+    1. Unité Astronomique (UA) : Distance moyenne Terre-Soleil (~150 millions de km). Utilisée pour les distances à l'intérieur du système solaire.
+    2. Année-lumière (al) : Distance parcourue par la lumière en un an (~9 460 milliards de km). Utilisée pour les distances entre les étoiles et les galaxies.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi les astronautes flottent-ils dans la station spatiale internationale ?
+    </user>
+  output: |
+    <think>
+    Analyse : Corriger l'idée reçue de l'absence de gravité. Expliquer la chute libre.
+    Structure : Expliquer le concept de microgravité et le mouvement orbital.
+    </think>
+    <answer>
+    Contrairement aux apparences, il y a de la gravité à l'altitude de l'ISS.
+    Les astronautes flottent parce que la station et tout ce qu'elle contient sont en état de "chute libre permanente" autour de la Terre. Ils avancent assez vite horizontalement pour que, tout en tombant vers la Terre, ils ne la touchent jamais, ce qui crée la sensation d'apesanteur.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Qu'est-ce que la Voie Lactée ?
+    </user>
+  output: |
+    <think>
+    Analyse : Définir notre galaxie.
+    Structure : Nature de l'objet, forme, et position du système solaire.
+    </think>
+    <answer>
+    La Voie Lactée est notre galaxie, un immense regroupement de centaines de milliards d'étoiles, de gaz et de poussières.
+    - Forme : C'est une galaxie spirale barrée.
+    - Système Solaire : Notre Soleil n'est qu'une étoile parmi tant d'autres, située dans l'un des bras spiraux de cette galaxie.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Pourquoi Mars est-elle rouge ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer la composition chimique de la surface martienne.
+    Structure : Identifier l'élément responsable (oxyde de fer) et expliquer son impact visuel.
+    </think>
+    <answer>
+    La couleur rouge de Mars est due à la présence massive d'oxyde de fer sur sa surface.
+    - Phénomène : En termes simples, c'est de la "rouille". Le fer présent dans le sol martien a réagi avec de faibles quantités d'oxygène au cours de l'histoire, recouvrant la planète d'une fine poussière rougeâtre.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Quelle est la plus grande planète du système solaire ?
+    </user>
+  output: |
+    <think>
+    Analyse : Identifier Jupiter comme la plus massive et grande planète.
+    Structure : Nommer la planète et donner un point de comparaison.
+    </think>
+    <answer>
+    La plus grande planète de notre système solaire est Jupiter.
+    C'est une géante gazeuse si grande qu'elle pourrait contenir environ 1 300 fois le volume de la Terre. Elle est principalement composée d'hydrogène et d'hélium.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    Comment les astronomes découvrent-ils de nouvelles exoplanètes ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer les méthodes de détection des planètes hors du système solaire.
+    Structure : Présenter les deux méthodes principales (transit et vitesse radiale).
+    </think>
+    <answer>
+    Il existe deux méthodes principales pour détecter les exoplanètes :
+    1. La méthode du transit : On observe une légère baisse de luminosité d'une étoile lorsqu'une planète passe devant elle.
+    2. La méthode de la vitesse radiale : On mesure le léger "oscillement" d'une étoile causé par l'attraction gravitationnelle d'une planète en orbite autour d'elle.
+    </answer>
+
+- input: |
+    <systme>
+    Tu doit repondre a l'utilisateur de maniere claire et structurer, tu doit reflechir avant de donnée une reponse, pour structurer comment tu vas la generer.
+    </systeme>
+    <user>
+    C'est quoi le Big Bang ?
+    </user>
+  output: |
+    <think>
+    Analyse : Expliquer le modèle cosmologique du Big Bang.
+    Structure : Définition, concept d'expansion, et origine de l'Univers.
+    </think>
+    <answer>
+    Le Big Bang n'est pas une explosion dans l'espace, mais le début de l'expansion de l'espace lui-même.
+    Il y a environ 13,8 milliards d'années, l'Univers était concentré en un point extrêmement dense et chaud. Depuis, il n'a cessé de s'étendre et de se refroidir, permettant la formation des galaxies et des étoiles que nous observons aujourd'hui.
+    </answer>
